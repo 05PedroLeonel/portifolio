@@ -1,0 +1,46 @@
+body{
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    padding: 10px;
+    display: flex;
+    font-family: "Inter", sans-serif;
+    background-color: rgba(0, 0, 0, 0.914);
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+nav ul li a:hover{
+    color: #df0e62;
+    text-decoration: underline;
+}
+
+h1{color: white;
+padding-left: 350px;
+padding-right: 350px;}
+
+body{background-color: rgb(140, 27, 27);}
+
+.Titulo{
+    font-family: "Kaisei Opti", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+      
+}
+
+.icones{
+    height: 50px;
+}
